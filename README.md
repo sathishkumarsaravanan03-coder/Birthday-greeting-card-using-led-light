@@ -22,7 +22,6 @@ Required Components:
 
   Functions :  
                                           
-               \~The working model of the birthday greeting card is ,when the aluminium foil fold is removed ,the aluminium foil goes towards positive foill and the led red light blinks.  
-![][image1]![][image2]
-![tinkercard_project](tinkercard project.jpg)
+               \~The working model of the birthday greeting card is ,when the aluminium foil fold is removed ,the aluminium foil goes towards positive foill and the led red light 
 ![papercraft_project](Papercraft_project.jpg)
+![tinkercard_project](tinkercard project.jpg)
